@@ -16,7 +16,7 @@ A simple todo application built with Flutter using Provider state management and
 - Android Studio/VSCode with Flutter extension (optional)
 
 ### How to Run
-1. Clone the repository
+   Clone the repository
    ```bash
    git clone https://github.com/Muhammad-Saad091/todo_task_app.git
    flutter pub get
