@@ -1,16 +1,23 @@
-# todo_task_app
+# Todo App with Flutter
 
-A new Flutter project.
+A simple todo application built with Flutter using Provider state management and SharedPreferences.
 
-## Getting Started
+## Features
+- Add new tasks
+- Mark tasks as completed
+- Edit existing tasks
+- Delete tasks
+- Persistent storage using SharedPreferences
 
-This project is a starting point for a Flutter application.
+## Setup Instructions
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK installed ([Installation Guide](https://docs.flutter.dev/get-started/install))
+- Android Studio/VSCode with Flutter extension (optional)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### How to Run
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Muhammad-Saad091/todo_task_app.git
+   flutter pub get
+   flutter run
